@@ -848,7 +848,7 @@ export {
   introdata,
   contactConfig,
   socialprofils,
-  logotext,
+  logotext, 
 };
 
 // import Comp_1 from "./assets/reels/Comp_1.mp4";
