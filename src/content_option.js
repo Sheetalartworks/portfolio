@@ -825,10 +825,10 @@ const contactConfig = {
 
 const socialprofils = {
   github: "https://github.com",
-  facebook: "https://facebook.com",
-  linkedin: "https://linkedin.com",
+  facebook: "https://www.facebook.com/profile.php?id=100011853919028",
+  linkedin: "https://www.linkedin.com/in/sheetal-sharma-5b1957185",
   // twitter: "https://twitter.com",
-  instagram:"https://www.instagram.com",
+  instagram:"https://www.instagram.com/sheetusharma1",
 };
 export {
   meta,
