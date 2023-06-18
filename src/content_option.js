@@ -153,6 +153,7 @@ import wrk_9 from "./assets/works/wrk_9.jpg";
 import wrk_10 from "./assets/works/wrk_10.jpg";
 import wrk_11 from "./assets/works/wrk_11.jpg";
 import wrk_12 from "./assets/works/wrk_12.jpg";
+import wrk_13 from "./assets/works/wrk_13.jpg";
 
 
 
@@ -235,10 +236,18 @@ const dataportfolio = [
     title: "Digital Works",
     images: [
       {
-        your_img_url: dig_4,
-        description: "The yash wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        your_img_url: dig_17,
       },
+      {
+        your_img_url: dig_12,
+      },
+      {
+        your_img_url: dig_15,
+      },
+      {
+        your_img_url: dig_16,
+      },
+      
       {
         your_img_url: dig_2,
         description: "The yash wisdom of life consists in the elimination of non-essentials.",
@@ -249,6 +258,15 @@ const dataportfolio = [
         description: "The yash wisdom of life consists in the elimination of non-essentials.",
         link: "#",
       },
+      {
+        your_img_url: dig_13,
+      },
+      {
+        your_img_url: dig_4,
+        description: "The yash wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+      },
+      
       {
         your_img_url: dig_3,
         description: "The yash wisdom of life consists in the elimination of non-essentials.",
@@ -274,23 +292,8 @@ const dataportfolio = [
         link: "#",
       },
      
-      
-      {
-        your_img_url: dig_13,
-      },
-      {
-        your_img_url: dig_12,
-      },
-      
-      {
-        your_img_url: dig_15,
-      },
-      {
-        your_img_url: dig_16,
-      },
-      {
-        your_img_url: dig_17,
-      },
+    
+    
       {
         your_img_url: dig_11,
         description: "The yash wisdom of life consists in the elimination of non-essentials.",
@@ -413,11 +416,7 @@ const dataportfolio = [
         description: "The yash wisdom of life consists in the elimination of non-essentials.",
         link: "#",
       },
-      {
-        your_img_url: magzine_2,
-        description: "The yash wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-      },
+      
       {
         your_img_url: magzine_4,
         description: "The yash wisdom of life consists in the elimination of non-essentials.",
@@ -440,6 +439,11 @@ const dataportfolio = [
       },
       {
         your_img_url: magzine_11,
+        description: "The yash wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+      },
+      {
+        your_img_url: magzine_2,
         description: "The yash wisdom of life consists in the elimination of non-essentials.",
         link: "#",
       },
@@ -581,6 +585,12 @@ const dataportfolio = [
     title: "Youtube Thumbnails",
     images: [
       {
+        your_img_url: youtube_20,
+      },
+      {
+        your_img_url: youtube_18,
+      },
+      {
         your_img_url: youtube_1,
       },
       {
@@ -631,15 +641,11 @@ const dataportfolio = [
       {
         your_img_url: youtube_17,
       },
-      {
-        your_img_url: youtube_18,
-      },
+    
       {
         your_img_url: youtube_19,
       },
-      {
-        your_img_url: youtube_20,
-      },
+      
     ]
   },
   //Social media posts
@@ -655,6 +661,9 @@ const dataportfolio = [
      
       {
         your_img_url: social_4,
+      },
+      {
+        your_img_url: social_24,
       },
       {
         your_img_url: social_5,
@@ -717,9 +726,7 @@ const dataportfolio = [
       {
         your_img_url: social_3,
       },
-      {
-        your_img_url: social_24,
-      },
+      
       
     ]
   },
@@ -764,6 +771,9 @@ const dataportfolio = [
     title: "Commission Works",
     images: [
       {
+        your_img_url: wrk_13,
+      },
+      {
         your_img_url: wrk_4,
       },
       
@@ -785,9 +795,7 @@ const dataportfolio = [
       {
         your_img_url: wrk_7,
       },
-      {
-        your_img_url: wrk_8,
-      },
+      
       {
         your_img_url: wrk_9,
       },
